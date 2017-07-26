@@ -1,2 +1,2 @@
 # daviesbraeden
-Websites I've made to showcase what I know how to do
+I am using this as a portfolio to showcase the websites I've made
